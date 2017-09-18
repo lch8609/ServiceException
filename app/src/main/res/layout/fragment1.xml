@@ -6,5 +6,12 @@
         android:text="클릭!"
         android:layout_weight="1"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="100dp" />
+    <Button
+        android:id="@+id/btn_service"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="120dp"
+        android:text="서비스 시작"
+        />
 </RelativeLayout>
